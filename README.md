@@ -12,7 +12,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190901160840570.gif)
 
 有需要的小伙伴可以下载玩一玩，或者用来测试接口，界面简陋了一点，也请大家见谅。后面我会继续改进。
-源码已上传至GitHub：
-https://github.com/blizzawang/InterfacnTestingTool.git
+博客地址：
+https://blog.csdn.net/qq_42453117/article/details/100184233
 
 **觉得不错请给个star支持一下，谢谢！**
